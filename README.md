@@ -26,7 +26,7 @@ We provide an example,line 40 is the vulneralbility statement and ranked 1st in 
 ```shell
 cd demo
 cd dataset
-unzip data.zip
+unzip dataset.zip
 cd ..
 python detect.py dev
 cd saved_models
