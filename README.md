@@ -26,7 +26,7 @@ We provide an example,line 40 is the vulneralbility statement and ranked 1st in 
 ```shell
 cd demo
 cd dataset
-unzip dataset.zip
+unzip data.zip
 cd ..
 python detect.py dev
 cd saved_models
@@ -49,7 +49,7 @@ vim programs.txt
 ```shell
 cd contract_all
 cd dataset
-unzip data.zip
+unzip dataset.zip
 cd ..
 python detect.py dev
 ```
